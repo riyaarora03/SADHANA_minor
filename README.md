@@ -1,5 +1,14 @@
 # Sadhana 
 ![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.07.41%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.08.07%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.08.36%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.08.58%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.09.26%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.09.50%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.10.37%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.11.00%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.11.34%E2%80%AFAM.png)
+![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.12.14%E2%80%AFAM.png)
 
 # Getting Started with Create React App
 
