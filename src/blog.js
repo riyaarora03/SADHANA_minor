@@ -122,7 +122,7 @@ let all_blocks = [
   {
     userId: 1,
     id: 21,
-    title: "Yoga for Better Posture",
+    title: "Yoga for Better Postures",
     body: "Improve your posture through yoga. Focus on poses that strengthen the core, open the chest, and align the spine. Cultivating good posture contributes to overall physical well-being and confidence."
   },
 ];
