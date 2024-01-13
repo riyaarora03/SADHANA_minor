@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-<<<Sadhana (Meditation for all)>>>
-=======
+Sadhana 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,9 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 55490cd (Initial commit)
 # Sadhana
 
-=======
-# SADHANA_minor
->>>>>>> 1e5b716088866a7bff47d53903f1eda70e9ff6e8
+
