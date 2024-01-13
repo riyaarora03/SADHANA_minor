@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<Sadhana (Meditation for all)>>>
 =======
 # Getting Started with Create React App
@@ -75,3 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> 55490cd (Initial commit)
 # Sadhana
 
+=======
+# SADHANA_minor
+>>>>>>> 1e5b716088866a7bff47d53903f1eda70e9ff6e8
