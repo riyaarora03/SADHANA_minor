@@ -10,6 +10,12 @@
 ![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.11.34%E2%80%AFAM.png)
 ![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.12.14%E2%80%AFAM.png)
 
+
+Sadhana emerges as a transformative web platform responding to the pressing need for holistic well-being in our fast-paced world. In recognizing the intricate connection between mental and physical health, the website offers tailored plans encompassing fitness, mindfulness, nutrition, and mental health resources.
+
+Catering to users of all backgrounds, Sadhana provides an inclusive space characterized by interactive features, progress tracking tools, and a supportive community. In an era dominated by digital influence, Sadhana transcends conventional wellness platforms by serving as a comprehensive and user-centric companion. By seamlessly integrating the realms of mental and physical wellness, the project aims to redefine lifestyle choices and contribute to a positive shift in societal well-being.
+
+The moral objective of this project is to empower individuals to lead healthier, more balanced lives in a world that often prioritizes productivity over well-being. By providing accessible and comprehensive resources for mental health and physical fitness, with a particular emphasis on yoga, the project seeks to cultivate a culture of self-care, mindfulness, and holistic wellness.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
