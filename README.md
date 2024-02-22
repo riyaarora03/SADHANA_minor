@@ -1,4 +1,7 @@
 # Sadhana 
+
+## Link for the demo: https://sadhana-minor.vercel.app/
+
 ![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.07.41%E2%80%AFAM.png)
 ![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.08.07%E2%80%AFAM.png)
 ![Image Alt Text](https://github.com/riyaarora03/SADHANA_minor/blob/main/screenshots/Screenshot%202024-01-14%20at%2012.08.36%E2%80%AFAM.png)
