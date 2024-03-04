@@ -19,6 +19,25 @@ Sadhana emerges as a transformative web platform responding to the pressing need
 Catering to users of all backgrounds, Sadhana provides an inclusive space characterized by interactive features, progress tracking tools, and a supportive community. In an era dominated by digital influence, Sadhana transcends conventional wellness platforms by serving as a comprehensive and user-centric companion. By seamlessly integrating the realms of mental and physical wellness, the project aims to redefine lifestyle choices and contribute to a positive shift in societal well-being.
 
 The moral objective of this project is to empower individuals to lead healthier, more balanced lives in a world that often prioritizes productivity over well-being. By providing accessible and comprehensive resources for mental health and physical fitness, with a particular emphasis on yoga, the project seeks to cultivate a culture of self-care, mindfulness, and holistic wellness.
+
+## Features:
+
+This platform aims to help individuals incorporate meditation into their daily lives, offering a range of features to support their practice and enhance their overall mental health.The website would also make meditation accessible to a wide audience, regardless of their experience level, physical abilities, or geographical location. This inclusivity ensures that as many people as pos- sible can benefit from the practice.
+1. Blog Page: Wisdom Unveiled
+Discovering rich collection of insightful blog posts, offering profound perspectives on yoga, meditation, and holistic wellness.
+2. Random Quotes Generator
+Experiencing daily doses of inspiration with Random Quotes. These thought-provoking quotes from renowned spiritual leaders and philosophers nourish one’s mind and elevate spirits throughout the day.
+3. Chat Box: Connect and Collaborate
+Our interactive chat box provides a space to share experiences, ask questions, and support one another on one’s wellness journey.
+4. BMI Calculator: Visual Inspiration
+Experience well-being synergy with our Yoga and Meditation BMI Calculator. Quick and intuitive, it computes your BMI, offering personalized insights for a balanced lifestyle.
+5. Quiz: Find Your Ideal Path
+Uncovering personalized meditation and yoga path through our insightful quiz. By under- standing customer’s preferences and goals, the quiz will help one identify the perfect plan to embark on their transformative journey.
+6. Buying Plans: Tailored to One’s Journey
+Explore our meditation and yoga haven, featuring buying plans for seamless access and adding desired plans to the cart. Elevate savings by applying exclusive promo codes at checkout.
+7. Guided Meditation Sessions with Proper Timetable
+Delve into meticulously curated monthly timetables featuring expert-led guided meditation sessions. Elevate your well-being with structured practices, fostering a harmonious synergy of mind and body.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
